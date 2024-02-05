@@ -1,4 +1,6 @@
 {
+  "name": "modern_fullstack_portfolio",
+  "version": "0.2.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
