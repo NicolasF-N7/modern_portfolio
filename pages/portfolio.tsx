@@ -1,5 +1,5 @@
 import Page from "components/utility/Page";
-import Projects from "components/portfolio/projects";
+import Portfolio from "components/portfolio/portfolio";
 import React from "react";
 
 /*import PortfolioSlide from 'components/projects/portfolio_slide'

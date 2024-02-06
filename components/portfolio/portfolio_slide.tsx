@@ -4,7 +4,7 @@ import Image from "next/image";
 import { Swiper, SwiperSlide } from 'swiper/react';
 import SwiperCore, { Navigation, Pagination, Zoom, A11y } from 'swiper/modules';
 import github_logo from '/public/static/icons/github.svg'
-import type {ProjectDataType} from '/data/types/projectDataType';
+import type {ProjectDataType} from '@/data/types/projectDataType';
 
 // Import Swiper styles
 import 'swiper/css';

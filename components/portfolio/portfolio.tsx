@@ -1,6 +1,6 @@
 import React from "react";
-import { portfolio_proj_data } from '/data/content/projects_data'
-import PortfolioSlide from '/components/portfolio/portfolio_slide'
+import { portfolio_proj_data } from '@/data/content/projects_data'
+import PortfolioSlide from '@/components/portfolio/portfolio_slide'
 import { Swiper, SwiperSlide, SwiperRef, SwiperClass } from 'swiper/react';
 import SwiperCore, { FreeMode, Navigation, Pagination, A11y, Mousewheel, EffectCreative } from 'swiper/modules';
 // Import Swiper styles

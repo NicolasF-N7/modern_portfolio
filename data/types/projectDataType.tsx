@@ -1,4 +1,4 @@
-import type {StaticImageData} from "@/app/components/StaticImageDataType"
+import type {StaticImageData} from "@/data/types/StaticImageDataType"
 
 export type ProjectDataType = {
   title: string;
