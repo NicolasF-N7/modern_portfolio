@@ -11,7 +11,7 @@ function Hero() {
         <p className="text-xl mb-5">Je suis Nicolas Foin,</p>
         <h1 className="heroTitle inline-block max-w-2xl lg:max-w-4xl  w-auto relative text-5xl md:text-6xl lg:text-7xl tracking-tighter mb-10 font-bold heroShinyBg">
           Je crée des <span className="heroShiny1 text-fun-pink">sites web</span> pour votre{" "}
-          <span className="heroShiny2 text-fun-pink">entreprise</span>.
+          <span className="heroShiny2 text-fun-pink">entreprise... commerce... startup</span>.
           <img
             className="sqD squiggle-hero-html w-16 top-[-90px] right-[5%] sm:top-[-90px] sm:right-[170px] opacity-40"
             style={{ animationDelay: "0.1s"}}
@@ -23,7 +23,7 @@ function Hero() {
             src="/static/doodles/hero/nextjs.svg"
           />
           <img
-            className="sqD bottom-[-250px] -right-[-30px] sm:right-[-10%] lg:bottom-[-350px] lg:right-[+90px] w-[25%] opacity-40"
+            className="sqD bottom-[-250px] -right-[-30px] lg:bottom-[-350px] lg:right-[+90px] w-[25%] opacity-40"
             style={{ animationDelay: "0.3s" }}
             src="/static/doodles/hero/mobile.svg"
           />

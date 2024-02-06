@@ -48,23 +48,23 @@ export const footer: Footer = {
       title: "Pages",
       links: [
         {
-          name: "Home",
+          name: "Services",
           link: "/",
           leavesWebsite: false,
         },
-        // {
-        //   name: "Blog",
-        //   link: "/blog",
-        //   leavesWebsite: false,
-        // },
         {
-          name: "Projects",
-          link: "/projects",
+          name: "Portfolio",
+          link: "/portfolio",
           leavesWebsite: false,
         },
         {
-          name: "Designs",
-          link: "/designs",
+          name: "Nicolas",
+          link: "/nicolas",
+          leavesWebsite: false,
+        },
+        {
+          name: "Contact",
+          link: "/contact",
           leavesWebsite: false,
         },
       ],
