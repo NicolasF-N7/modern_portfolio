@@ -24,20 +24,20 @@ type Footer = {
 
 export const routes: Route[] = [
   {
-    title: "Home",
+    title: "Services",
     path: "/",
   },
-  // {
-  //   title: "Blog",
-  //   path: "/blog",
-  // },
   {
-    title: "Projects",
-    path: "/projects",
+    title: "Portfolio",
+    path: "/portfolio",
   },
   {
-    title: "Designs",
-    path: "/designs",
+    title: "Nicolas",
+    path: "/nicolas",
+  },
+  {
+    title: "Contact",
+    path: "/contact",
   },
 ];
 
@@ -48,23 +48,23 @@ export const footer: Footer = {
       title: "Pages",
       links: [
         {
-          name: "Home",
+          name: "Services",
           link: "/",
           leavesWebsite: false,
         },
-        // {
-        //   name: "Blog",
-        //   link: "/blog",
-        //   leavesWebsite: false,
-        // },
         {
-          name: "Projects",
-          link: "/projects",
+          name: "Portfolio",
+          link: "/portfolio",
           leavesWebsite: false,
         },
         {
-          name: "Designs",
-          link: "/designs",
+          name: "Nicolas",
+          link: "/nicolas",
+          leavesWebsite: false,
+        },
+        {
+          name: "Contact",
+          link: "/contact",
           leavesWebsite: false,
         },
       ],

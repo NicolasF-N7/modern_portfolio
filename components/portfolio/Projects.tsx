@@ -1,10 +1,13 @@
+// ENTIRE FILE TO DELETE
+
 import React from "react";
-import projects from "@/data/content/projects";
+import projects from "/data/content/projects_data";
 import { Project } from "types";
 import { kebabCase } from "@/utils/utils";
 import Link from "next/link";
 import Image from "next/image";
-import ProjectCard from "./ProjectCard";
+import ProjectSlide from "./ProjectSlide";
+import ProjectCard from "./ProjectCard";//FILE TO DELETE
 
 type ProjectProps = {
   overwriteProjects?: Project[];
